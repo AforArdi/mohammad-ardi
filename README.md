@@ -12,7 +12,7 @@ Learning Web Dev. from CS50 & Anisul Islam
     <img src="images/linkedin_logo.png" alt="linkedin_profile" width="40" style="border-radius: 50%;">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/AforArdi">
+  <a href="https://www.github.com/AforArdi" target="_blank">
     <img src="images/github_logo.png" alt="github_profile" width="40" style="border-radius: 50%;">
   </a>
 </p>
