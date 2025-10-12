@@ -3,15 +3,16 @@
 Learning Web Dev. from CS50 & Anisul Islam   
 🏠 Living: Daulatpur, Khulna, Bangladesh  
 
-<a href="https://www.facebook.com/RAB06KHULNA">
+<p>
+    <a href="https://www.facebook.com/RAB06KHULNA">
 <img src="images/fb_logo.png" alt="facebook_profile" width="40" style="border-radius: 50%; margin-right: 30px;">
 <a href="https://www.linkedin.com/in/mohammad-ardi">
 <img src="images/linkedin_logo.png" alt="linkedin_profile" width="40" style="border-radius: 50%; margin-right: 30px;">
 <a href="https://www.github.com/AforArdi">
 <img src="images/github_logo.png" alt="github_profile" width="40" style="border-radius: 50%;">
+</p>
 
 ### 👨‍🏫 About Me
-
 <p style="text-align: justify;">
     I’m a motivated learner passionate about web development and technology. I’ve completed my HSC, practiced coding through CS50, and gained hands-on experience with Git, SQL
 </p>
