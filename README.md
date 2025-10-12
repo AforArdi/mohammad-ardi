@@ -8,7 +8,7 @@ Learning Web Dev. from CS50 & Anisul Islam
     <img src="images/fb_logo.png" alt="facebook_profile" width="40" style="border-radius: 50%;">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammad-ardi">
+  <a href="https://www.linkedin.com/in/mohammad-ardi" target="_blank">
     <img src="images/linkedin_logo.png" alt="linkedin_profile" width="40" style="border-radius: 50%;">
   </a>
   &nbsp;&nbsp;&nbsp;
