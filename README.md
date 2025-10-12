@@ -4,9 +4,9 @@ Learning Web Dev. from CS50 & Anisul Islam
 🏠 Living: Daulatpur, Khulna, Bangladesh  
 
 <a href="https://www.facebook.com/RAB06KHULNA">
-<img src="images/fb_logo.png" alt="facebook_profile" width="40" style="border-radius: 50%; margin-right: 10px;">
+<img src="images/fb_logo.png" alt="facebook_profile" width="40" style="border-radius: 50%; margin-right: 30px;">
 <a href="https://www.linkedin.com/in/mohammad-ardi">
-<img src="images/linkedin_logo.png" alt="linkedin_profile" width="40" style="border-radius: 50%; margin-right: 10px;">
+<img src="images/linkedin_logo.png" alt="linkedin_profile" width="40" style="border-radius: 50%; margin-right: 30px;">
 <a href="https://www.github.com/AforArdi">
 <img src="images/github_logo.png" alt="github_profile" width="40" style="border-radius: 50%;">
 
