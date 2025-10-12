@@ -11,6 +11,7 @@ Learning Web Dev. from CS50 & Anisul Islam
 <img src="images/github_logo.png" alt="github_profile" width="40" style="border-radius: 50%;">
 
 ### 👨‍🏫 About Me
+
 <p style="text-align: justify;">
     I’m a motivated learner passionate about web development and technology. I’ve completed my HSC, practiced coding through CS50, and gained hands-on experience with Git, SQL
 </p>
@@ -47,6 +48,6 @@ Learning Web Dev. from CS50 & Anisul Islam
 - 🚶‍♂️ Walking
 
 ---
-Thanks for going through my Portfolio. All rights reserved by Mohammad Ardi @2025
+Thanks for going through my Portfolio. All rights reserved by Mohammad Ardi ©️2025
 
 ---
