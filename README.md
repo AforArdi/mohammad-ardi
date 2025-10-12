@@ -4,7 +4,7 @@ Learning Web Dev. from CS50 & Anisul Islam
 🏠 Living: Daulatpur, Khulna, Bangladesh  
 
 <p align="left">
-  <a href="https://www.facebook.com/RAB06KHULNA">
+  <a href="https://www.facebook.com/RAB06KHULNA" target="_blank">
     <img src="images/fb_logo.png" alt="facebook_profile" width="40" style="border-radius: 50%;">
   </a>
   &nbsp;&nbsp;&nbsp;
